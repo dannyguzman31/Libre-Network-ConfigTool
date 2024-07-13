@@ -1,0 +1,4 @@
+master,hostname,port,username,password,old_ip,old_subnet,old_gateway,new_ip,new_subnet,new_gateway,ntp_server
+Master 1,10.9.8.51,22,gamechange,Gcr2016!,10.9.8.51,255.255.255.0,10.9.8.1,10.9.8.54,255.255.255.0,10.9.8.1,8.8.8.8
+Master 2,10.9.8.52,22,gamechange,Gcr2016!,10.9.8.52,255.255.255.0,10.9.8.1,10.9.8.55,255.255.255.0,10.9.8.1,8.8.8.8
+Master 3,10.9.8.53,22,gamechange,Gcr2016!,10.9.8.53,255.255.255.0,10.9.8.1,10.9.8.56,255.255.255.0,10.9.8.1,8.8.8.8
